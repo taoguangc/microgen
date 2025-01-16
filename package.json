@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@svgr/webpack": "^8.1.0",
-    "@tinacms/cli": "^1.5.18",
+    "@tinacms/cli": "^1.8.0",
     "@types/js-cookie": "^3.0.0",
     "@types/node": "^22.10.7",
     "@types/react": "19.0.7",
@@ -44,7 +44,7 @@
     "react-is": "^18.3.1",
     "react-scrollmagic": "^2.3.0",
     "styled-components": "^6.1.14",
-    "tinacms": "^1.5.9",
+    "tinacms": "^2.6.0",
     "typescript": "^5.7.3"
   },
   "resolutions": {
